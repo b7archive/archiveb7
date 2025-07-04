@@ -1,6 +1,6 @@
 {
-  "name": "B7 EasyDocs",
-  "short_name": "B7Docs",
+  "name": "B7 Archive",
+  "short_name": "B7Archive",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
